@@ -44,9 +44,3 @@ npm start
 
 **Bilal Ahmad Khalid**  
 BSCS21019
-
----
-
-## Contact
-
-For any questions or feedback, please reach out via the repository issues section.
